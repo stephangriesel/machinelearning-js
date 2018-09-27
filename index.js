@@ -10,3 +10,6 @@ network.train([
     { input: [1,1,1], output: [1] }
 ]);
 
+const result = network.run([1,0,0]);
+
+console.log(`Prob: ${output}`);
