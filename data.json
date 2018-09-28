@@ -1,0 +1,22 @@
+[
+  {
+    "text": "my dog wants to go for a walk",
+    "category": "dog"
+  },
+  {
+    "text": "feed my cat",
+    "category": "cat"
+  },
+  {
+    "text": "play with my dog",
+    "category": "dog"
+  },
+  {
+    "text": "do you do injections for dogs",
+    "category": "dog"
+  },
+  {
+    "text": "please brush my cat every day",
+    "category": "cat"
+  }
+]
