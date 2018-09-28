@@ -13,6 +13,8 @@ network.train(trainingData, {
     iterations: 2000 // by default more iterations, add custom config option
 });
 
-const output = network.run("i brushed the dog");
+// const output = network.run("i brushed the dog");
+const output = network.run("do you walk dogs");
+
 
 console.log(`Category: ${output}`);
